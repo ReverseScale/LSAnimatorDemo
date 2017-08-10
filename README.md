@@ -481,4 +481,6 @@ animator.transformIdentity.animate(1.0);
 .ls_animate(1);// 动画开始执行几秒
 ```
 
+### 动画曲线图
+
 ![](http://og1yl0w9z.bkt.clouddn.com/17-8-10/84293725.jpg)
